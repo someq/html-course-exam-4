@@ -42,7 +42,7 @@ body
 {
     font-size: 3em;
 
-    padding: 8.8% 0 5.5%;
+    padding: 8.9% 0 5.5%;
 
     color: #2c2e37;
 }
@@ -68,7 +68,7 @@ body
 
 .picture a
 {
-    display: block;
+    display: inline-block;
 
     text-decoration: none;
 }
@@ -274,41 +274,22 @@ header.sticky .menu-left a:hover
     background: #f8f9fa;
 }
 
+.partners .flex-box {
+    align-items: center;
+}
+
 .logo-partner
 {
-    padding: 7.9% 0;
+    padding: 6.3% 0;
 
     flex: 0 0 47.5%;
+
+    text-align: center;
 }
 
-.logo-slack
-{
-    background-image: url('../img/logo-slack.png');
-}
-
-.logo-adobe
-{
-    background-image: url('../img/logo-adobe.png');
-}
-
-.logo-google
-{
-    background-image: url('../img/logo-google.png');
-}
-
-.logo-facebook
-{
-    background-image: url('../img/logo-facebook.png');
-}
-
-.logo-spotify
-{
-    background-image: url('../img/logo-spotify.png');
-}
-
-.logo-nike
-{
-    background-image: url('../img/logo-nike.png');
+.logo-partner img {
+    width: auto;
+    height: auto;
 }
 
 /* clients */
