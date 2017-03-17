@@ -1,2 +1,4 @@
-# html-course-exam-4
-https://someq.github.io/html-course-exam-4/
+## Домашняя работа №34
+Фиксы к экзамену за 4 месяц
+
+https://someq.github.io/html_group_8_homework_34_farid_khalikov/
